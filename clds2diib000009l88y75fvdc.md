@@ -21,7 +21,7 @@ On the right, it has to have a responsible person and the person who is accounta
 
 Preparing an Agenda
 
-1. Apoogies
+1. Apologies
     
 2. Confirmation of previous meetings
     
@@ -39,3 +39,7 @@ Preparing an Agenda
     
 
 On the right responsible person, actions, checks.
+
+1. HR team review
+    
+2. recruiting the marketer
